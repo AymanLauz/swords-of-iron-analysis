@@ -1,0 +1,13 @@
+Ignore all CSV data files (to keep them private)
+
+*.csv
+
+Ignore hidden folders created by Jupyter and Colab
+
+.ipynb_checkpoints/
+pycache/
+
+Ignore system files
+
+.DS_Store
+Thumbs.db
